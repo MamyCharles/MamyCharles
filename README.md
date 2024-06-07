@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MamyCharles/MamyCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hello, I'm Mamy Charles, I'm an Industrial Engineer and I want to retrain as a web developer and pursue a web career. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m very interested in code, and I wanna be a developer
+- 🌱 I’m currently learning all things about web work, specifically digital marketing and backend field
+- 👯 I’m looking to collaborate on varied project and met the challenges.
+- 🕵️ I really like to solve problem and helping   people on their project.
+
+- 📫 How to reach me: cmamy34@gmail.com 
+-<br> <br>
+
+- 😊 To the pleasure of exchanging and/or collaborating together. 
 -->
